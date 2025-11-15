@@ -17,7 +17,6 @@ url                      : https://meenuravi18.github.io # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meenuravi18/meenuravi18.github.io"
 
-
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -28,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Washington D.C."
-  employer         : "Virginia Tech | MITRE Corp."
+  employer         : "Virginia Tech"
   uri              : # URL
   email            : "ravim@vt.edu" 
 
@@ -115,7 +114,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -223,6 +222,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  books:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -280,6 +282,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+ # _books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: books
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
@@ -300,7 +310,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -309,7 +319,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 

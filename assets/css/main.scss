@@ -1,13 +1,7 @@
 ---
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
+/* Imports from _sass */
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -40,3 +34,64 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.page,
+.page__content,
+.initial-content,
+.site-content,
+.masthead,
+.wrapper,
+.page__inner-wrap,
+.archive,
+.home {
+  background: transparent !important;
+}
+
+/* GLOBAL PAGE BACKGROUND */
+html, body {
+  min-height: 100%;
+  background: linear-gradient(rgba(255,255,255,0.4), rgba(255,255,255,0.4)), url("/images/background.jpeg") no-repeat center center fixed;
+  background-size: cover !important;
+  background-attachment: fixed;
+}
+
+
+/* Make navigation bar transparent */
+.masthead,
+.masthead__container,
+.masthead__menu-item,
+.nav__wrap,
+.site-nav,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links,
+.page__footer {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+* {
+  color: black !important;
+}
+
+.masthead,
+.masthead a {
+  font-size: 1.5rem !important;
+  /* color: #ffffff !important; */
+  font-weight: 600;
+}
+
+
+.masthead__menu-item a {
+  font-size: 1.1rem !important;
+  /* color: #ffffff !important; */
+  font-weight: 600;
+}
+.greedy-nav .visible-links li:first-child a {
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  color:rgb(93, 86, 77) !important;
+}
+.site-content {
+  min-height: 100vh !important;
+}

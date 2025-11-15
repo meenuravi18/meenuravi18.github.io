@@ -1,1 +1,3 @@
+User-agent: *
+Allow: /
 Sitemap: https://meenuravi18.github.io/sitemap.xml
