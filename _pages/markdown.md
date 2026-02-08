@@ -6,34 +6,34 @@ author_profile: true
 
 ## Organizing Literature
 
-- After trying the plethora of apps and tools out there from Notion to Obsidian, I was reacquainted with my affinity for pen and paper.  
-  I have designed a [Research Journal](https://www.amazon.com/Research-Journal-Meenu-Ravi/dp/B0F9VCTLGV) for collecting, organizing, and taking notes on literature review.  
-  When I was using online tools/apps, I would often mindlessly copy-paste notes or screenshots. I wasn't truly learning the material and it became perfunctory.  
-  Writing my notes, especially in a limited amount of space, helps me focus on what’s important, distill the main points, and improve understanding.
+- I like using pen and paper for most of my work- literature reviews, plannig etc.  
+  I use [Research Journal](https://www.amazon.com/Research-Journal-Meenu-Ravi/dp/B0F9VCTLGV) for collecting, organizing, and taking notes on literature review.   
+  Writing my notes, especially in a limited amount of space, helps focus on the main points and takeaways.
 
 ![Research Journal](/images/IMG_0973.png)
 
-- Zotero is great for building a literature repository. It integrates easily with Overleaf for quick citations.
+- I find Zotero most helpful for building a literature repository. It integrates easily with Overleaf for quick citations and has a Chrome extension to efficiently save papers.
 
 ---
 
 ## Writing
 
-- Overleaf is helful for drafting research papers and journal articles, especially with its support for tables, figures, and citations.
+- I like Overleaf is for drafting papers.
 
 - [Mark Leone's (CMU) Blog](https://www.cs.cmu.edu/~mleone/how-to.html) offers helpful advice on academic writing, research skills, and career development.
+- [How to write a scientific paper](https://www.scidev.net/global/practical-guides/how-do-i-write-a-scientific-paper/)- nice tips for writing
+- [How to Write a Lot by Paul J Silva](https://www.goodreads.com/book/show/39874447-how-to-write-a-lot)
 
-- [Gimp](https://www.gimp.org/) is a free cross-platform image editor available for GNU/Linux, macOS, and Windows. Great for creating/ editing clear figures and diagrams for papers.
 
 ---
 
 ## Research Ideas and Miscellaneous
 
-- One method I find very helpful for finding research topics and ideas is to write everything down!  
-  Writing and reflecting often reveals new ideas—methods, algorithms, or novel directions.  
-  Keeping a record of meetings, papers read, and your own thoughts provides a clear view of how your thinking has evolved.  
-  It's also invaluable when drafting papers—you can retrieve insights you didn’t realize you'd need.
-- After each class, paper, or event I participate in, I like to reflect upon it. This can include committee feedback on papers, what I learned in class, new concepts I encountered, my opinions on a talk, and questions that come to mind. In the past I have fallen victim to mindlessly taking courses with the goal of completion, and while that is important, I have found that reflecting on the activities I participate in allows me to practice gratitude and gain a high-level understanding of each experience in relation to my long-term goals.
+- Reflect on work, feedback received, classes, and experiences. Alogn with this idea, keep a (written) record of everything. Why a particular method was chosen, hyperparameters chosen, why certain coding or stylistic decision were made. It is my opinion that research hinges greatly on reproducibility. Providing guidance on thought process can help yourself in the future as well as other researchers.
+- I like this project planner. A5 Roterfaden Taschenbegleiter. It can track up to 22 projects. Each project gets a two-page spread with a timeline across the top, a to-do list on the right edge, and a dot grid note section taking up the rest of the space. 
+
+![Project planner](/images/plan.png)
+
 
 ## Favorite Media (Not specific to research- just in general)
 

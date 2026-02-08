@@ -1,0 +1,45 @@
+body, p, ul, ol, li {
+  font-family: "Work Sans", sans-serif;
+  background-color: #cac7b9;
+}
+
+a, h1, h2, h3, h4, h5, h6 {
+  font-family: "Pacifico", cursive;
+  font-weight: 900 ;
+  font-style: bold ;
+
+}
+/* === Sidebar font override === */
+
+.sidebar,
+.sidebar *,
+.author__bio,
+.author__content,
+.nav__list,
+.nav__list *,
+.nav__sub-title,
+.nav__list a {
+
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+  font-style: normal ;
+  font-weight: normal;
+  background-color: transparent;
+}
+.author__name {
+  font-family: "Pacifico", cursive !important;
+  font-weight: 700;
+}
+.page__content li>a{
+  font-family: "Work Sans", sans-serif;
+  background-color: #cac7b9;
+  font-style: normal ;
+  font-weight: normal;
+
+}
+.books td {
+  font-family: "Work Sans", sans-serif;
+  background-color: transparent;
+  font-style: normal ;
+  font-weight: normal;
+}
