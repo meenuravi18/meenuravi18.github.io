@@ -18,7 +18,7 @@ author_profile: true
 
 ## Writing
 
-- I like Overleaf is for drafting papers.
+- I like Overleaf for drafting papers.
 
 - [Mark Leone's (CMU) Blog](https://www.cs.cmu.edu/~mleone/how-to.html) offers helpful advice on academic writing, research skills, and career development.
 - [How to write a scientific paper](https://www.scidev.net/global/practical-guides/how-do-i-write-a-scientific-paper/)- nice tips for writing
@@ -29,7 +29,7 @@ author_profile: true
 
 ## Research Ideas and Miscellaneous
 
-- Reflect on work, feedback received, classes, and experiences. Alogn with this idea, keep a (written) record of everything. Why a particular method was chosen, hyperparameters chosen, why certain coding or stylistic decision were made. It is my opinion that research hinges greatly on reproducibility. Providing guidance on thought process can help yourself in the future as well as other researchers.
+- Reflect on work, feedback received, classes, and experiences. Along with this idea, keep a (written) record of everything. Why a particular method was chosen, hyperparameter choices, why certain coding or stylistic decisions were made. It is my opinion that research hinges greatly on reproducibility. Providing explanation and documentation on thought process thoroughly can help yourself in the future as well as other researchers.
 - I like this project planner. A5 Roterfaden Taschenbegleiter. It can track up to 22 projects. Each project gets a two-page spread with a timeline across the top, a to-do list on the right edge, and a dot grid note section taking up the rest of the space. 
 
 ![Project planner](/images/plan.png)
