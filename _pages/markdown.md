@@ -6,7 +6,7 @@ author_profile: true
 
 ## Organizing Literature
 
-- I like using pen and paper for most of my work- literature reviews, plannig etc.  
+- I like using pen and paper for most of my work- literature reviews, planning etc.  
   I use [Research Journal](https://www.amazon.com/Research-Journal-Meenu-Ravi/dp/B0F9VCTLGV) for collecting, organizing, and taking notes on literature review.   
   Writing my notes, especially in a limited amount of space, helps focus on the main points and takeaways.
 
@@ -30,7 +30,8 @@ author_profile: true
 ## Research Ideas and Miscellaneous
 
 - Reflect on work, feedback received, classes, and experiences. Along with this idea, keep a (written) record of everything. Why a particular method was chosen, hyperparameter choices, why certain coding or stylistic decisions were made. It is my opinion that research hinges greatly on reproducibility. Providing explanation and documentation on thought process thoroughly can help yourself in the future as well as other researchers.
-- I like this project planner. A5 Roterfaden Taschenbegleiter. It can track up to 22 projects. Each project gets a two-page spread with a timeline across the top, a to-do list on the right edge, and a dot grid note section taking up the rest of the space. 
+- While it may seem rudimentary, having checklists for methodology or assignments as a step by step guide on what to do each day or that walk through the steps of your research project process has been very beneficial for me. 
+- I like this project planner. A5 Roterfaden Taschenbegleiter. It can track up to 22 projects. Each project gets a two-page spread with a timeline across the top, a to-do list on the right edge, and a dot grid note section taking up the rest of the space.
 
 ![Project planner](/images/plan.png)
 
