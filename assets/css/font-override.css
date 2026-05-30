@@ -30,7 +30,7 @@ a, h1, h2, h3, h4, h5, h6 {
   background-color: transparent;
 }
 .author__name {
-  font-family: ""Tangerine", cursive";
+  font-family: "Tangerine", cursive";
   font-weight: 700;
   font-style: normal;
 }
@@ -47,7 +47,15 @@ a, h1, h2, h3, h4, h5, h6 {
   font-style: normal ;
   font-weight: normal;
 }
-
+.author__urls li.author__desktop,
+.author__urls li.author__desktop *,
+.author__urls li.author__desktop a,
+.author__urls li.author__desktop span,
+.author__urls li.author__desktop i {
+  font-family: "Cormorant Garamond", Garamond, serif !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+}
 .author__content,
 .author__urls-wrapper,
 .author__desktop,
