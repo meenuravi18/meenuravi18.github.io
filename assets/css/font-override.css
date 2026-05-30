@@ -47,11 +47,8 @@ a, h1, h2, h3, h4, h5, h6 {
 }
 
 .author__content,
-.author__content *,
 .author__urls-wrapper,
-.author__urls-wrapper *,
 .author__urls,
-.author__urls *,
- * {
+{
   font-family: "Cormorant Garamond", serif;
 }
