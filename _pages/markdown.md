@@ -10,18 +10,18 @@ author_profile: true
 
 ## Organizing Literature
 
-- I like using pen and paper for most of my work- literature reviews, planning etc.  
+- I like using pen and paper for most of my work- literature reviews, planning etc.
+- I find Zotero most helpful for building a literature repository. It integrates easily with Overleaf for quick citations and has a Chrome extension to efficiently save papers.
+- I like Overleaf for drafting papers.
   I use [Research Journal](https://www.amazon.com/Research-Journal-Meenu-Ravi/dp/B0F9VCTLGV) for collecting, organizing, and taking notes on literature review.   
   Writing my notes, especially in a limited amount of space, helps focus on the main points and takeaways.
 
 ![Research Journal](/images/IMG_0973.png)
 
-- I find Zotero most helpful for building a literature repository. It integrates easily with Overleaf for quick citations and has a Chrome extension to efficiently save papers.
-- I like Overleaf for drafting papers.
+
 ---
 
 ## Resources
-
 
 - [Mark Leone's (CMU) Blog](https://www.cs.cmu.edu/~mleone/how-to.html) offers helpful advice on academic writing, research skills, and career development.
 - [How to write a scientific paper](https://www.scidev.net/global/practical-guides/how-do-i-write-a-scientific-paper/)- nice tips for writing
