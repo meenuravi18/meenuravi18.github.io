@@ -102,12 +102,11 @@ a, h1, h2, h3, h4, h5, h6 {
 .sidebar .fa,
 .sidebar .fas,
 .sidebar .far {
-  font-family: "Font Awesome 5 Free" !important;
-  font-weight: 900 !important;
+  font-family: "Cormorant Garamond", serif;
 }
 
 .author__urls .fab,
 .sidebar .fab {
-  font-family: "Font Awesome 5 Brands" !important;
-  font-weight: 400 !important;
+  font-family: "Cormorant Garamond", serif;
+
 }
