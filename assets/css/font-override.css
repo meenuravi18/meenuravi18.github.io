@@ -7,7 +7,7 @@ body, p, ul, ol, li {
 
 a, h1, h2, h3, h4, h5, h6 {
   font-family: "Tangerine", cursive;
-  font-weight: 900 ;
+  font-weight: 700 ;
   font-style: bold ;
 
 }
@@ -31,7 +31,7 @@ a, h1, h2, h3, h4, h5, h6 {
 .author__name {
   font-family: "Tangerine", cursive;
   font-weight: 700;
-  font-style: bold ;
+  font-style: normal ;
 }
 .page__content li>a{
   font-family: "Cormorant Garamond", serif;
@@ -55,7 +55,6 @@ a, h1, h2, h3, h4, h5, h6 {
   font-style: normal !important;
   font-weight: 400 !important;
 }
-/* Desktop author links text */
 .author__urls li.author__desktop,
 .author__urls li.author__desktop a,
 .author__urls li.author__desktop span {
@@ -90,8 +89,12 @@ a, h1, h2, h3, h4, h5, h6 {
 .author__urls .far {
   font-weight: 900 !important;
 }
-.author__name {
-  font-family: "Tangerine", cursive;
-  font-weight: 700;
-  font-style: bold ;
+
+.sidebar .author__name,
+.sidebar .author__name a,
+.author__name,
+.author__name a {
+  font-family: "Tangerine", cursive !important;
+  font-weight: 700 !important;
+  font-style: normal !important;
 }
