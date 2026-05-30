@@ -65,13 +65,13 @@ a, h1, h2, h3, h4, h5, h6 {
 .sidebar .fas,
 .sidebar .far,
 .sidebar .fab {
-  font-family: "Font Awesome" !important;
+  font-family: FontAwesome !important;
 }
 
 /* Brand icons like GitHub/LinkedIn */
 .sidebar .fab,
 .author__urls .fab {
-  font-family: "Font Awesome" !important;
+  font-family: FontAwesome !important;
   font-weight: 400 !important;
 }
 
@@ -93,20 +93,4 @@ a, h1, h2, h3, h4, h5, h6 {
   font-weight: 700 !important;
   font-style: normal !important;
 }
-/* restore sidebar icons */
-.author__urls i,
-.author__urls .fa,
-.author__urls .fas,
-.author__urls .far,
-.sidebar i,
-.sidebar .fa,
-.sidebar .fas,
-.sidebar .far {
-  font-family: "Cormorant Garamond", serif;
-}
 
-.author__urls .fab,
-.sidebar .fab {
-  font-family: "Cormorant Garamond", serif;
-
-}
