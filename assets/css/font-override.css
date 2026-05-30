@@ -31,6 +31,7 @@ a, h1, h2, h3, h4, h5, h6 {
 .author__name {
   font-family: "Tangerine", cursive;
   font-weight: 700;
+  font-style: bold ;
 }
 .page__content li>a{
   font-family: "Cormorant Garamond", serif;
@@ -59,4 +60,9 @@ a, h1, h2, h3, h4, h5, h6 {
 .author__desktop,
 .author__urls {
   font-family: "Cormorant Garamond", Garamond, serif;
+}
+.author__name {
+  font-family: "Tangerine", cursive;
+  font-weight: 900;
+  font-style: bold ;
 }
