@@ -1,5 +1,6 @@
+
 body, p, ul, ol, li {
-  font-family: "Optima, sans-serif";
+  font-family: "Cormorant Garamond", serif;
   background-color: #cac7b9;
 }
 
@@ -20,7 +21,7 @@ a, h1, h2, h3, h4, h5, h6 {
 .nav__sub-title,
 .nav__list a {
 
-  font-family: "Optima, sans-serif";
+  font-family: "Cormorant Garamond", serif;
   font-size: 24px;
   font-style: normal ;
   font-weight: normal;
@@ -31,14 +32,14 @@ a, h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 .page__content li>a{
-  font-family: "Work Sans", sans-serif;
+  font-family: "Cormorant Garamond", serif;
   background-color: #cac7b9;
   font-style: normal ;
   font-weight: normal;
 
 }
 .books td {
-  font-family: "Optima, sans-serif";
+  font-family: "Cormorant Garamond", serif;
   background-color: transparent;
   font-style: normal ;
   font-weight: normal;
