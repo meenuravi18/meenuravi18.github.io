@@ -6,7 +6,7 @@ body, p, ul, ol, li {
 }
 
 a, h1, h2, h3, h4, h5, h6 {
-  font-family: "Tangerine", cursive", cursive;
+  font-family: "Tangerine", cursive;
   font-weight: 900 ;
   font-style: bold ;
 
@@ -29,7 +29,7 @@ a, h1, h2, h3, h4, h5, h6 {
   background-color: transparent;
 }
 .author__name {
-  font-family: "Tangerine", cursive";
+  font-family: "Tangerine", cursive;
   font-weight: 700;
 }
 .page__content li>a{
