@@ -1,64 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Tangerine:wght@400;700&display=swap');
-
-body,
-p,
-ul,
-ol,
-li {
-  font-family: "Cormorant Garamond", Garamond, serif;
+body, p, ul, ol, li {
+  font-family: "Cormorant Garamond", serif;
   background-color: #cac7b9;
 }
 
-/* Headings only */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+a, h1, h2, h3, h4, h5, h6 {
   font-family: "Tangerine", cursive;
-  font-weight: 700;
-  font-style: normal;
-}
+  font-weight: 900 ;
+  font-style: bold ;
 
-/* Page links only, not all links globally */
-.page__content a {
-  font-family: "Tangerine", cursive;
-  font-weight: 700;
-  font-style: normal;
 }
+/* === Sidebar font override === */
 
-/* Sidebar text, but DO NOT target every child with .sidebar * */
 .sidebar,
+.sidebar *,
 .author__bio,
 .author__content,
-.author__content p,
-.author__urls-wrapper,
-.author__urls,
-.author__urls li,
-.author__urls a,
 .nav__list,
-.nav__list li,
-.nav__list a,
-.nav__sub-title {
-  font-family: "Cormorant Garamond", Garamond, serif !important;
+.nav__list *,
+.nav__sub-title,
+.nav__list a {
+
+  font-family: "Cormorant Garamond", serif;
   font-size: 24px;
-  font-style: normal !important;
-  font-weight: 400 !important;
+  font-style: normal ;
+  font-weight: normal;
   background-color: transparent;
 }
-
-/* Author name: stronger and after sidebar */
-.sidebar .author__name,
-.sidebar .author__name a,
-.author__name,
-.author__name a {
-  font-family: "Tangerine", cursive !important;
-  font-weight: 700 !important;
-  font-style: normal !important;
-  font-size: 44px;
+.author__name {
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: bold ;
 }
+.page__content li>a{
+  font-family: "Cormorant Garamond", serif;
+  background-color: #cac7b9;
+  font-style: normal ;
+  font-weight: normal;
 
+}
+.books td {
+  font-family: "Cormorant Garamond", serif;
+  background-color: transparent;
+  font-style: normal ;
+  font-weight: normal;
+}
+.author__urls li.author__desktop,
+.author__urls li.author__desktop *,
+.author__urls li.author__desktop a,
+.author__urls li.author__desktop span,
+.author__urls li.author__desktop i {
+  font-family: "Cormorant Garamond", Garamond, serif !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+}
 /* Desktop author links text */
 .author__urls li.author__desktop,
 .author__urls li.author__desktop a,
@@ -67,7 +63,6 @@ h6 {
   font-style: normal !important;
   font-weight: 400 !important;
 }
-
 /* Restore icons */
 .author__urls li.author__desktop i,
 .author__urls i,
@@ -95,17 +90,8 @@ h6 {
 .author__urls .far {
   font-weight: 900 !important;
 }
-
-.page__content li > a {
-  font-family: "Cormorant Garamond", Garamond, serif !important;
-  background-color: #cac7b9;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.books td {
-  font-family: "Cormorant Garamond", Garamond, serif;
-  background-color: transparent;
-  font-style: normal;
-  font-weight: 400;
+.author__name {
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: bold ;
 }
