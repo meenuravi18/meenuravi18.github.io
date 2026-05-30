@@ -8,19 +8,22 @@ body, p, ul, ol, li {
 a, h1, h2, h3, h4, h5, h6 {
   font-family: "Tangerine", cursive;
   font-weight: 700 ;
-  font-style: bold ;
+  font-style: normal ;
 
 }
 /* === Sidebar font override === */
 
 .sidebar,
-.sidebar *,
+.sidebar p,
+.sidebar li,
+.sidebar a,
+.sidebar span,
 .author__bio,
 .author__content,
 .nav__list,
-.nav__list *,
-.nav__sub-title,
-.nav__list a {
+.nav__list li,
+.nav__list a,
+.nav__sub-title  {
 
   font-family: "Cormorant Garamond", serif;
   font-size: 24px;
@@ -46,15 +49,7 @@ a, h1, h2, h3, h4, h5, h6 {
   font-style: normal ;
   font-weight: normal;
 }
-.author__urls li.author__desktop,
-.author__urls li.author__desktop *,
-.author__urls li.author__desktop a,
-.author__urls li.author__desktop span,
-.author__urls li.author__desktop i {
-  font-family: "Cormorant Garamond", Garamond, serif !important;
-  font-style: normal !important;
-  font-weight: 400 !important;
-}
+
 .author__urls li.author__desktop,
 .author__urls li.author__desktop a,
 .author__urls li.author__desktop span {
