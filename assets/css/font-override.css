@@ -45,3 +45,21 @@ a, h1, h2, h3, h4, h5, h6 {
   font-style: normal ;
   font-weight: normal;
 }
+.sidebar,
+.sidebar *,
+.sidebar a,
+.sidebar p,
+.sidebar li,
+.sidebar span,
+.author__content,
+.author__content *,
+.author__urls-wrapper,
+.author__urls-wrapper *,
+.author__urls,
+.author__urls *,
+.nav__list,
+.nav__list *,
+.toc,
+.toc * {
+  font-family: "Cormorant Garamond", Garamond, serif !important;
+}
