@@ -44,9 +44,6 @@ author_profile: true
 - I like this project planner. A5 Roterfaden Taschenbegleiter. It can track up to 22 projects. Each project gets a two-page spread with a timeline across the top, a to-do list on the right edge, and a dot grid note section taking up the rest of the space.
 
 
-![Project planner](/images/plan.png)
-
-
 ## Favorite Media (Not specific to research- just in general)
 
 - [Youtube channel about reading, journaling, writing](https://youtube.com/@phinefem?si=H3lKYoDV5Yt07mea)
