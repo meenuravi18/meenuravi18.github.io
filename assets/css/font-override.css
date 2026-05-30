@@ -65,13 +65,13 @@ a, h1, h2, h3, h4, h5, h6 {
 .sidebar .fas,
 .sidebar .far,
 .sidebar .fab {
-  font-family: "Font Awesome 5 Free" !important;
+  font-family: "Font Awesome" !important;
 }
 
 /* Brand icons like GitHub/LinkedIn */
 .sidebar .fab,
 .author__urls .fab {
-  font-family: "Font Awesome 5 Brands" !important;
+  font-family: "Font Awesome" !important;
   font-weight: 400 !important;
 }
 
