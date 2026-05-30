@@ -1,5 +1,5 @@
 body, p, ul, ol, li {
-  font-family: "ui-monospace";
+  font-family: "Optima, sans-serif";
   background-color: #cac7b9;
 }
 
@@ -20,7 +20,7 @@ a, h1, h2, h3, h4, h5, h6 {
 .nav__sub-title,
 .nav__list a {
 
-  font-family: "Work Sans", sans-serif;
+  font-family: "Optima, sans-serif";
   font-size: 24px;
   font-style: normal ;
   font-weight: normal;
@@ -38,7 +38,7 @@ a, h1, h2, h3, h4, h5, h6 {
 
 }
 .books td {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Optima, sans-serif";
   background-color: transparent;
   font-style: normal ;
   font-weight: normal;
