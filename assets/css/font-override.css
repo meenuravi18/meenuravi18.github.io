@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Pacifico&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Meie+Script&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Tangerine:wght@400;700&display=swap');
 body, p, ul, ol, li {
   font-family: "Cormorant Garamond", serif;
   background-color: #cac7b9;
 }
 
 a, h1, h2, h3, h4, h5, h6 {
-  font-family: "Meie Script", cursive;
+  font-family: "Tangerine", cursive", cursive;
   font-weight: 900 ;
   font-style: bold ;
+  font-style: normal;
 
 }
 /* === Sidebar font override === */
@@ -30,8 +30,9 @@ a, h1, h2, h3, h4, h5, h6 {
   background-color: transparent;
 }
 .author__name {
-  font-family: "Meie Script", cursive !important;
+  font-family: ""Tangerine", cursive";
   font-weight: 700;
+  font-style: normal;
 }
 .page__content li>a{
   font-family: "Cormorant Garamond", serif;
