@@ -9,7 +9,6 @@ a, h1, h2, h3, h4, h5, h6 {
   font-family: "Tangerine", cursive", cursive;
   font-weight: 900 ;
   font-style: bold ;
-  font-style: normal;
 
 }
 /* === Sidebar font override === */
@@ -32,7 +31,6 @@ a, h1, h2, h3, h4, h5, h6 {
 .author__name {
   font-family: "Tangerine", cursive";
   font-weight: 700;
-  font-style: normal;
 }
 .page__content li>a{
   font-family: "Cormorant Garamond", serif;
