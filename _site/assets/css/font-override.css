@@ -1,45 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Tangerine:wght@400;700&display=swap');
 body, p, ul, ol, li {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Cormorant Garamond", serif;
   background-color: #cac7b9;
 }
 
 a, h1, h2, h3, h4, h5, h6 {
-  font-family: "Pacifico", cursive;
-  font-weight: 900 ;
-  font-style: bold ;
+  font-family: "Tangerine", cursive;
+  font-weight: 700 ;
+  font-style: normal ;
 
 }
 /* === Sidebar font override === */
 
 .sidebar,
-.sidebar *,
+.sidebar p,
+.sidebar li,
+.sidebar a,
+.sidebar span,
 .author__bio,
 .author__content,
 .nav__list,
-.nav__list *,
-.nav__sub-title,
-.nav__list a {
+.nav__list li,
+.nav__list a,
+.nav__sub-title  {
 
-  font-family: "Work Sans", sans-serif;
-  font-size: 24px;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 18px;
   font-style: normal ;
   font-weight: normal;
   background-color: transparent;
 }
 .author__name {
-  font-family: "Pacifico", cursive !important;
+  font-family: "Tangerine", cursive;
   font-weight: 700;
+  font-style: normal ;
+  font-size:1.7em;
 }
 .page__content li>a{
-  font-family: "Work Sans", sans-serif;
+  font-family: "Cormorant Garamond", serif;
   background-color: #cac7b9;
   font-style: normal ;
   font-weight: normal;
 
 }
 .books td {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Cormorant Garamond", serif;
   background-color: transparent;
   font-style: normal ;
   font-weight: normal;
 }
+
+.author__urls li.author__desktop,
+.author__urls li.author__desktop a,
+.author__urls li.author__desktop span {
+  font-family: "Cormorant Garamond", Garamond, serif !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+}
+/* Restore icons */
+.author__urls li.author__desktop i,
+.author__urls i,
+.sidebar i,
+.sidebar .fa,
+.sidebar .fas,
+.sidebar .far,
+.sidebar .fab {
+  font-family: FontAwesome !important;
+}
+
+/* Brand icons like GitHub/LinkedIn */
+.sidebar .fab,
+.author__urls .fab {
+  font-family: FontAwesome !important;
+  font-weight: 400 !important;
+}
+
+/* Solid icons */
+.sidebar .fa,
+.sidebar .fas,
+.sidebar .far,
+.author__urls .fa,
+.author__urls .fas,
+.author__urls .far {
+  font-weight: 400 !important;
+}
+
+.sidebar .author__name,
+.sidebar .author__name a,
+.author__name,
+.author__name a {
+  font-family: "Tangerine", cursive !important;
+  font-weight: 700 !important;
+  font-style: normal !important;
+  font-size:1.7em;
+}
+
