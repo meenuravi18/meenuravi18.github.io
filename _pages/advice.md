@@ -17,13 +17,13 @@ Here are some advice and resources I have collected over the last few months alo
     - [Research meeting questions](https://jvgemert.github.io/meetings.pdf)
     - [Paper Skeleton](https://jvgemert.github.io/assets/pdf/paper_skeleton.rtf)
     - [Presentation Guidelines](https://jvgemert.github.io/presentation.pdf)
-[How to Write Research Papers](https://taoxiease.github.io/publications/writepapers.pdf)
-[How to Read a Technical Paper](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
-[How to find Research Problems](https://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)
+- [How to Write Research Papers](https://taoxiease.github.io/publications/writepapers.pdf)
+- [How to Read a Technical Paper](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
+- [How to find Research Problems](https://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)
     - Designing a clean comparison does take thought, and carrying it out is often a lot of work
     - Writing a lit review will make you something of an expert, able to talk confidently with other researchers in the area; it will give you an idea of the shortcomings of past research; You can make it available to others via your Web page or an online paper archive.
-[How to write a research paper](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf)
-[Good Writing](https://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm)
+- [How to write a research paper](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf)
+- [Good Writing](https://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm)
     - Good writing will permit your readers to concentrate on your ideas, and may help you to give the impression that you know what you are talking (writing) about
     - You must want to produce good writing.
     - You must believe you can produce good writing.
